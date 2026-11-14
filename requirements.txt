@@ -1,0 +1,12 @@
+# versions: fill in with `pip freeze | grep -iE "^(torch|transformers|peft|bitsandbytes|accelerate|huggingface-hub|pandas|numpy|scipy|matplotlib|tabulate)=="` from your Kaggle run
+torch
+transformers
+peft
+bitsandbytes
+accelerate
+huggingface_hub
+pandas
+numpy
+scipy
+matplotlib
+tabulate

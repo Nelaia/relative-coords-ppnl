@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or the adapters, please cite the paper."
+title: "Relative Coordinate Representations for Grid Path Planning with a Small Language Model: Reference Frames and Input Formats on PPNL"
+authors:
+  - family-names: "Lê"
+    given-names: "Nguyễn Trí Nguyên"
+  - family-names: "Lê"
+    given-names: "Hoài Nam"
+  - family-names: "Trần"
+    given-names: "Kim Hiệu"
+repository-code: "https://github.com/[user]/[repo]"
+doi: "[Zenodo DOI]"
+license: MIT
