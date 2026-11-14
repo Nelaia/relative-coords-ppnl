@@ -73,7 +73,7 @@ def main():
 
         print(f"\n==================== CONDITION: {cond} ({subfolder}) ====================")
         base = AutoModelForCausalLM.from_pretrained(D.MODEL_NAME, quantization_config=bnb, device_map={"": 0},
-                                                    dtype=torch.float16, attn_implementation="sdpa")
+                                                    torch_dtype=torch.float16, attn_implementation="sdpa")
         model = PeftModel.from_pretrained(base, args.repo_id, subfolder=subfolder).eval()
 
         for name in SPLIT_NAMES:
