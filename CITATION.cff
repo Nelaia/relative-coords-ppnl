@@ -9,5 +9,5 @@ authors:
   - family-names: "Trần"
     given-names: "Kim Hiệu"
 repository-code: "https://github.com/[user]/[repo]"
-doi: "[Zenodo DOI]"
+doi: "10.5281/zenodo.24210725"
 license: MIT
