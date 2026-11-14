@@ -1,6 +1,6 @@
 # Absolute vs. relative coordinates for fine-tuned SLM grid navigation (PPNL)
 
-Code, adapters and per-sample predictions for the paper *Relative Coordinate Representations for Grid Path Planning with a Small Language Model: Reference Frames and Input Formats on PPNL ([DOI / link]).
+Code, adapters and per-sample predictions for the paper *Relative Coordinate Representations for Grid Path Planning with a Small Language Model: Reference Frames and Input Formats on PPNL (under review).
 Base model: `Qwen/Qwen2.5-3B` (QLoRA). Base benchmark: PPNL, Aghzal et al. (https://github.com/MohamedAghzal/llms-as-path-planners).
 
 ## Conditions
